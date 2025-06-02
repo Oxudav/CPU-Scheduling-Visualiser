@@ -63,10 +63,4 @@ A custom algorithm combining SJF, Priority, and Round Robin:
 
 ---
 
-## 📂 Source Code
-
-🔗 [GitHub - mukul2310/cpu-scheduler-visualiser](https://github.com/Oxudav/CPU-Scheduling-Visualiser)
-
----
-
 ## 🙌 Thanks for visiting!
